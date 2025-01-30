@@ -2,7 +2,7 @@
 - 👀 I’m interested in a whole lot of things
 - 🌱 I’m currently learning to program GUI's in Python
 - 💞️ I’m looking to collaborate mainly on translating projects
-- 📫 You can't reach me <---!on...--->
+- 📫 You can reach me on...
 
 <!---
 Krabyyx/Krabyyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
